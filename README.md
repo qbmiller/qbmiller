@@ -4,30 +4,12 @@
 
 喜欢把日常工作中重复、低效的事情做成工具，偏爱简单、可长期维护的解决方案。近期主要关注：
 
-* AI Coding
-* Cloudflare Workers
-* Vue 3
-* Java & Spring Boot
-* macOS 效率工具
-* 自动化工作流
-* 文档与知识管理
 
 🚀 Featured Projects
 
 📚 CFShare / WikiShare
 
 基于 Cloudflare Workers、D1、R2 和 Vue 3 的私有文档分享与在线阅读系统。
-
-功能包括：
-
-* 文档上传与管理
-* 在线预览（PDF / Markdown / 图片 / PPT）
-* 分享链接与访问有效期控制
-* 用户权限管理
-* 私有 R2 存储
-* 无服务器部署
-
-适合个人知识库、团队文档中心和私有文件分享场景。
 
 GitHub:
 https://github.com/qbmiller/wikiShare
@@ -44,6 +26,7 @@ https://github.com/qbmiller/wikiShare
 * 窗口管理
 * 剪贴板管理
 * 菜单栏工具
+* 日历-中国
 * AI 工具
 * 开发者工具
 
